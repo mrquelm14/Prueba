@@ -1,2 +1,6 @@
 archivo de texto nuevo
+<<<<<<< HEAD
+añado esta linea en el archivo que, derivado de la 2ª modificacion, va en la nueva rama llamada cubo
+=======
 pongo la segunda frase y guardo otro commit
+>>>>>>> master
